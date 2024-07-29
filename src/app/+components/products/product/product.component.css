@@ -1,0 +1,30 @@
+
+.product{
+     box-sizing: border-box;
+     padding: 10px;
+     border: 1px solid gray;
+     border-radius: 5px ;
+
+}
+.count{
+     color: red;
+     padding: 20px;
+     text-align: right;
+}
+.title{
+     padding: 20px 30px 20px 30px;
+     text-align: right;
+}
+.price{
+     font-size: x-large;
+    
+    
+}
+
+.detail{
+     color: rgb(83, 83, 83);
+     text-align: right;
+     padding: 20px;
+
+     
+}
